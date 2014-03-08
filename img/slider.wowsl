@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.2</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/studio/</ImageTemplate>
+            <ImageTemplateName>Studio</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/ryanseto/Documents/WOW Slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>/Users/ryanseto/Documents/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>147</SlideshowDelay>
+            <SlideshowDuration>21</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>studio</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/bora bora.jpeg</url>
+                <title>The Four Seasons Resort situated in Bora Bora</title>
+                <description>The Four Seasons Resort situated in Bora Bora not only boasts tremendous views and scenery but also offers over the water suites so that you are completely surrounded by a beautiful nature. Often being named as one of the best hotels in the world, the Four Seasons don’t skimp on luxury either.</description>
+            </Image>
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/swe2.jpg</url>
+                <title>The Taj Exotica Resort and Spa located in the Maldives</title>
+                <description>The Taj Exotica Resort and Spa located in the Maldives offers the very best in relaxation, and if that is what you are searching for, then search no further. Surrounded by one of the world’s largest natural lagoons, it comes to no surprise that the Taj Exotica is no stranger to being hailed as one of the most beautiful and best hotels to stay in.</description>
+            </Image>
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/derw.jpg</url>
+                <title>The Poseidon Resort in Fiji</title>
+                <description>The Poseidon Resort in Fiji allows its guests to be completely surrounded by an underwater world for the whole of their stay. Also boasting private submarines which allows guests to explore even further into sea life, this hotel has got to be one of the most relaxing and amazing hotels that the world has to offer.</description>
+            </Image>
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/gse.jpg</url>
+                <title>The Kakslauttanen Village located in Finland </title>
+                <description>Offering its guests their own private igloo, what better way is there to escape into nature for a few nights? The Kakslauttanen Village located in Finland is one of the most unique hotels that the world has to offer, don’t be put off by the thought of staying in an igloo, as they offer nothing but luxury and class.</description>
+            </Image>
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/r3s.jpg</url>
+                <title>The Viceroy Hotel that is situated in Bali</title>
+                <description>The Viceroy Hotel that is situated in Bali can be described as nothing other than absolutely beautiful. The breath taking views that are to be seen and the luxurious stay that is to be had are just some of the many wonderful factors that this hotel is able to boast. Surrounded by what appears to be a stunning paradise for anyone, this has got to be one of the best hotels in the world.</description>
+            </Image>
+            <Image>
+                <url>/Users/ryanseto/Desktop/p5-image-gallery/img/dr3e1.jpg</url>
+                <title>Mardan Palace Hotel in Turkey</title>
+                <description>There are not a lot of things that this hotel cannot offer you. Beautiful scenery, one of the largest swimming pools in the Mediterranean, complete luxury and giving every guest the true feeling of royalty is all included in the package. Having only been built fairly recently in 2009, this hotel has done well to now be considered as one of the best in the world.</description>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

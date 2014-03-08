@@ -1,4 +1,42 @@
+body {
+    background-image: url("../img/background.jpeg");
+}
+
+h1 {
+    font-family: 'Michroma', sans-serif;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.nav {
+    display: inline;
+}
+
+.button {
+    background: none;
+    padding: 0px;
+}
+
+
+#camera {
+    height: auto;
+    width: 100px;
+    display: inline;
+}
+
+.view {
+    width: 35px;
+    height: auto;
+}
+
+
 /* Gallery Styling */
+article {
+    background: none;
+}
 
 .gallery .th {
 	float: left;
@@ -10,6 +48,16 @@
 	-moz-transition: width .25s .5s;
 	-webkit-transition: width .25s .5s;
 	transition: width .25s .5s;
+}
+
+#gallery a {
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+#gallery img {
+    height: 150px;
 }
 
 /* Wireframing Font */
@@ -24,18 +72,11 @@
     font-style: normal;
 }
 
-/* 
+/*
 p, h3, a {
 	font-family: 'redactedregular';
 }
-*/
+/*
 
-#gallery a {
-    width: 200px;
-    height: 150px;
-    overflow: hidden;
-}
 
-#gallery img {
-    height: 150px;
-}
+
